@@ -23,7 +23,8 @@
         <li><a href="index.php#tech">Technology</a></li>
         <li><a href="index.php#contribute">Contribute</a></li>
         <li><a href="chat.php">Support Chat</a></li>
-        <li><a href="map.php">Server Map</a></li>
+        <li><a href="map.php">Server Map (iso)</a></li>
+        <li><a href="2d.php">Server Map (2d)</a></li>
     </ul>
 
     <h1>Status</h1>
